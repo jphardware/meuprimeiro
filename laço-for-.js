@@ -1,0 +1,3 @@
+for (let contador =0; contador< 1000000000000000000000000000000000000000000000000000000000000000;contador ++){
+    console.log(contador)
+}
